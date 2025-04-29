@@ -33,13 +33,11 @@ dependencies:
   - pillow=7.2.0=py36hb39fc2d_0
   - pip=20.2.2=py36_0
   - python=3.6.12=hcff3b4d_2
-  - pytorch=1.4.0=py3.6_cuda10.0.130_cudnn7.6.3_0
   - readline=8.0=h7b6447c_0
   - setuptools=49.6.0=py36_0
   - six=1.15.0=py_0
   - sqlite=3.33.0=h62c20be_0
   - tk=8.6.10=hbc83047_0
-  - torchvision=0.5.0=py36_cu100
   - wheel=0.35.1=py_0
   - xz=5.2.5=h7b6447c_0
   - zlib=1.2.11=h7b6447c_3
@@ -54,4 +52,8 @@ dependencies:
     - scikit-learn==0.23.2
     - scipy==1.5.2
     - threadpoolctl==2.1.0
+    - torchvision=0.5.0=py36_cu100
+    - pytorch=1.4.0=py3.6_cuda10.0.130_cudnn7.6.3_0
+  
+  
 
